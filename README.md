@@ -1,7 +1,7 @@
 # EternalBlueTrojan
 EternalBlueTrojan(CVE-2017-0144)
 
-Hi👋
+Hi✋
 
 ⚠️Warning: Do not use it for any illegal purpose, just Only for educational purposes, if any illegal action happens, we will not be responsible.
 
